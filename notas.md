@@ -1,4 +1,6 @@
-# Notas
+#  NOTAS
+
+**Lunes - 11/04/2022**
 
 ### Para configurar um motor de busca no Edge (semelhante ao de Chrome):
  - Na barra de URL: edge://settings/searchEngines
@@ -20,11 +22,13 @@ Fuente: https://support.microsoft.com/es-es/microsoft-edge/cambiar-el-motor-de-b
 - Envía a Messenger
 - Baja de Messenger como ....
 
-## Verificación de dominio
 
+## Checklist para IG Shopping
+[] Conectado a un FB
+[] Misma CC, BM
+[] Dominio verificado
+[] Método de pago
+[] Productos físicos
+[] Catálogo
 
-
-
-
-  
-
+https://help.instagram.com/502981923235522/ - no abre en español (??)
