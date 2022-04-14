@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loja teste</title>
+</head>
+<body>
+
+    <h1>Exemplo de loja via Pixel direto (sem integrações)</h1>
+    
+    <script type="application/ld+json">
+        // https://developers.facebook.com/docs/marketing-api/catalog/reference/#json-ld
+        // https://schema.org/Offer // mais, melhores exemplos
+
+        // https://teeruto.com/wp-content/uploads/2021/10/facebook-new-meta-logo-unisex-tshirt-7p3ld73965.jpg
+
+        {
+          "@context":"https://schema.org",
+          "@type":"Product",
+          "productID":"Playera",
+          "name":"Playera Facebook",
+          "description":"Una playera linda de Facebook",
+          "url":"https://example.org/facebook",
+          "image":"http://www.clker.com/cliparts/f/8/1/c/12937498391441714813facebook%20t-shirt-hi.png",
+          "brand":"FB playeras",
+          "offers": [
+            {
+              "@type": "Offer",
+              "price": "300.00",
+              "priceCurrency": "BRL",
+              "itemCondition": "https://schema.org/NewCondition",
+              "availability": "in stock"
+            }
+          ],
+          "additionalProperty": [{
+            "@type": "PropertyValue",
+            "propertyID": "item_group_id",
+            "value": "fb_tshirts"
+          }]
+        }
+        </script>
+
+
+
+</body>
+</html>

@@ -44,5 +44,16 @@ Helio Blaze.html
 Caso:
 permisso de usuario  -   683559016095079
 
-## CASO para escalar:
+
+Greyzman caso - 934651577230161
+https://our.intern.facebook.com/intern/commerce_platform/shop/?id=103475155280141
+
+
+https://icons.com.co/
+
+https://www.sportlightstore.com.br/produtos/tenis-nike-air-more-uptempo-96-white-and-midnight-navy/
+
+https://www.sportlightstore.com.br/produtos/tenis-nike-air-jordan-1-low-se-racer-blue1/
+
+interesante - herramientas de desarrolladores https://developers.facebook.com/tools/
 
