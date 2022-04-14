@@ -8,15 +8,36 @@
     <style>
       #titulo{
         color: white;
-        background: red;
+        background: blue;
       }
     </style>
+
+      <!-- Meta Pixel Code -->
+      <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '1717666665246559');
+        fbq('track', 'PageView');
+      </script>
+      <noscript><img height="1" width="1" style="display:none"
+        src="https://www.facebook.com/tr?id=1717666665246559&ev=PageView&noscript=1"
+      /></noscript>
+      <!-- End Meta Pixel Code -->
+
+
 </head>
 <body>
 
     <h1 id="titulo">Exemplo de loja via Pixel direto (sem integrações)</h1>
     
     <script type="application/ld+json">
+        // https://heliolinux.github.io/notas/
         // https://developers.facebook.com/docs/marketing-api/catalog/reference/#json-ld
         // https://schema.org/Offer // mais, melhores exemplos
 
@@ -31,6 +52,7 @@
           "url":"https://example.org/facebook",
           "image":"http://www.clker.com/cliparts/f/8/1/c/12937498391441714813facebook%20t-shirt-hi.png",
           "brand":"FB playeras",
+          "custom_label_0": "Promoção de verão",
           "offers": [
             {
               "@type": "Offer",
