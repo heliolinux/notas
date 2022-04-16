@@ -8,15 +8,35 @@
 </head>
 <body>
 
-    Nombre: <input type="text" id="nombre">
+    Nombre: <input type="text" id="nombre"> 
+    <br>
+
     <img src="male.png" id="hombre">
     <img src="woman.png" id="mujer">
+
+    Nro del caso: <input type="text" id="nro"> <br>
+    <br>
+
+    Dificultad: <input type="text" id="dificultad"> <br>
+    <br>
 
     <textarea class="txtArea">Aquí va el texto....</textarea><br>
     <button class="btCopy">COPIA</button> 
 
 
 <script>
+    // dentro de funcion:   
+
+    // pega dados:
+    let nombre = document.querySelector('#nombre').value
+    let nro = document.querySelector('#nro').value
+    let dificultad = document.querySelector('#dificultad').value
+
+
+    // define msg:
+    let abre = `Hola, ${nombre}. Te doy la bienvenida al chat. Soy Helio de Meta Concierge Support. Te informo que el número de tu caso es: ${nro}. Aprovechando, en caso de que nuestra comunicación sea interrumpida, ¿puedes confirmarme tu correo electrónico y número telefónico con el código de país incluido?`
+    let empatia = `Gracias por las informaciones, ${nombre}. Primeramente, quiero que sepas que estaré haciendo todo lo que esté a mi alcance para brindarte soporte en nuestra solicitud, ¿está bien?`
+    let comentas = `Nos comentas que tienes dificultades ${dificultad}, verdad?`
 
         // https://www.flaticon.com/search?word=man+blue
 
