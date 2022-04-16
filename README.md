@@ -1,2 +1,2 @@
 # notas
-Notas de trabajo
+Notas
