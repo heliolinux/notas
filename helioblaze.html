@@ -9,26 +9,24 @@
 <body>
 
 
+    <textarea class="txtArea">Aquí va el texto....</textarea><br>
+    <button class="btCopy">COPIA</button> 
 
-<p>
-  <button class="js-textareacopybtn" style="vertical-align:top;">Copy Textarea</button>
-  <textarea class="js-copytextarea">Hello I'm some text</textarea>
-</p>
 
 <script>
-        let copyTextareaBtn = document.querySelector('.js-textareacopybtn');
+        let btCopy = document.querySelector('.btCopy');
 
-        copyTextareaBtn.addEventListener('click', function(event) {
-            let copyTextarea = document.querySelector('.js-copytextarea');
+        btCopy.addEventListener('click', ()=> {
+            let copyTextarea = document.querySelector('.txtArea');
             copyTextarea.focus();
             copyTextarea.select();
 
             try {
                 let successful = document.execCommand('copy');
-                let msg = successful ? 'successful' : 'unsuccessful';
-                console.log('Copying text command was ' + msg);
+                let msg = successful ? 'con éxito' : 'ERROR';
+                console.log('Texto copiado ' + msg);
             } catch (err) {
-                console.log('Oops, unable to copy');
+                console.log('Oops, no se pudo copiar...');
             }
         });
 </script>
