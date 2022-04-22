@@ -58,3 +58,67 @@ https://www.sportlightstore.com.br/produtos/tenis-nike-air-jordan-1-low-se-racer
 
 interesante - herramientas de desarrolladores https://developers.facebook.com/tools/
 
+
+
+## Compras en vivo - tutoriales
+
+https://www.facebook.com/business/help/478960726516381
+https://www.facebook.com/business/help/880609949031868
+https://www.facebook.com/business/help/571129137086513
+https://www.facebook.com/business/help/228672485387240
+
+foto - https://scontent.frao1-2.fna.fbcdn.net/v/t39.2365-6/120441782_788246078575219_2372577929225986136_n.png?_nc_cat=102&ccb=1-5&_nc_sid=ad8a9d&_nc_ohc=flok9XmvQHMAX-tBI0x&_nc_ht=scontent.frao1-2.fna&oh=00_AT8_jtkObhjNyxsTRmN8BR4Lb5UakD0S6Ri0a3ErAYAmLg&oe=6262D563
+
+
+
+## Bons atendimientos 
+perfil
+IG
+etc.
+534599191356213
+
+Marca ponto:
+http://timesheet.atento.com.br/ControlePonto_Layout/MarcaPonto/
+
+
+## cambio de adm
+375169607830630
+
+
+405017674393599
+
+
+
+## Quem pode trocar horario - espanhol
+
+Carlos Marcelino Chancellor Cedeno
+Patricia Nazareth Pacheco Rangel
+Billy Jesus Arias Toro
+Joana Neves Mauricio
+Pool Jean Pieer Aguilar Garcia
+Alex Bernaldino Da Silva
+Cristina Yusmary Gonzales Parejo
+Danniel Rennier Da Silva Correa
+Anny Patricia Parente Diaz
+
+---
+
+tienda de revistas:
+https://revistalsdd.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
