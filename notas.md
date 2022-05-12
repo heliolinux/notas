@@ -118,6 +118,25 @@ case
 escalar - 382471453888700
 
 
+Agregar personas al BM - problemas en la integración: case - 354371313333668
+
+caso vestido de noiva - 724045801943610
+
+
+## Sobre catálogos y pixel en MercadoShops:
+https://mercadoshops.com.mx/centro-de-contenidos
+https://vendedores.mercadolivre.com.br/nota/como-configurar-o-facebook-shopping-na-sua-loja-mercado-shops/
+https://vendedores.mercadolibre.com.mx/nota/como-crear-cuenta-profesional-tienda-facebook/
+https://mercadoshops.com.mx/centro-de-contenidos/21493
+
+
+
+
+1 - Seu domínio deve representar a sua empresa, ou seja, não pode ser um site de venda de terceiros
+2 - No seu site, deve ser possível realizar a compra de produtos físicos
+3 - Ao fazer a compra em seu site, o cliente deve conseguir adicionar o produto ao carrinho, e finalizar o pagamento com pelo menos uma opção de cartão de crédito, dentro do seu domínio, sem ser reencaminhado para um site de pagamento de terceiros
+4 - Em seu site, o cliente deve ter a opção de fazer a compra sem ter a obrigatoriedade de criar um cadastro de usuário com senha.
+5 - O site deve disponibilizar a opção de entrega para todo o Brasil, e não somente uma região específica.
 
 
 
@@ -129,3 +148,51 @@ escalar - 382471453888700
 
 
 
+
+
+Gracias, María, por las informaciones. 
+Para confirmar, ¿tus cuentas serían estas?:
+
+www.facebook.com/Mille-Kids-Wear-Pagina-110664088254482
+https://www.instagram.com/millekidswear/
+
+
+Hay cinco requisitos previos de elegibilidad para aprobarse una tienda, tanto en Instagram como en Facebook. Para vender en las plataformas de comercio de Meta como empresa, tu página de Facebook y/o tu cuenta profesional de Instagram deben cumplir con estos requisitos. El enlace en que puedes consultar estas informaciones es: https://www.facebook.com/business/help/2347002662267537. 
+
+Y si observas el Requisito nro. 4, así dice: 
+*Demostrar confiabilidad.*
+"Tu cuenta y página de Facebook o tu cuenta profesional de Instagram deben tener una presencia auténtica y prolongada que permita verificar que son confiables. Esto puede incluir también un número constante y suficiente de seguidores"
+
+Ahí, notas que todo lo que falta para tu elegibilidad es eso. Nada más.
+
+
+
+
+caso sobre identidade e conta restringida
+****975349983172373
+
+https://www.facebook.com/support
+
+https://www.facebook.com/id/hub - comprobación
+
+https://www.facebook.com/help/contact/2166173276743732 - cuenta restringida.
+
+¿podemos darlo por satisfactorio hasta ahora?
+
+Editar>Desactivar cuenta de comercio>Contraseña y confirma>Motivo para eliminar la cuenta(Escoja el que guste)>Desactivar.
+
+
+
+
+crear una tienda en FB
+https://www.facebook.com/business/help/268860861184453?id=1077620002609475
+
+eliminar catálogo
+https://www.facebook.com/business/help/569692570139137?id=725943027795860
+
+desactivar cuenta de comercio
+https://www.facebook.com/business/help/332237491329226
+
+
+Cliente chato - BR
+591199065266500
