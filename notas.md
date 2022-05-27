@@ -196,3 +196,20 @@ https://www.facebook.com/business/help/332237491329226
 
 Cliente chato - BR
 591199065266500
+
+
+
+"ENROLAÇÃO":
+https://www.facebook.com/business/help/1436917029995314
+https://www.facebook.com/business/help/4322671737743632
+https://www.facebook.com/business/help/1268984156585391
+https://www.facebook.com/policies/ads
+
+
+---
+
+view-source:https://www.facebook.com/gascanoas/
+Buscas a (Ctrl + F):
+/commerce_manager\/
+business_id=
+
